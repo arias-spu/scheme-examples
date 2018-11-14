@@ -1,0 +1,1 @@
+"c:\Program Files (x86)\MIT-GNU Scheme\bin\mit-scheme.exe" --library "c:\Program Files (x86)\MIT-GNU Scheme\lib" --heap 1024 --load %1
